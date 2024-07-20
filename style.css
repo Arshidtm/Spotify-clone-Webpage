@@ -1,13 +1,16 @@
+
 *{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
 }
+/* Making body background Black */
 body{
     background: black;
     font-family: Arial, Helvetica, sans-serif;
     
 }
+/* Sidebar Style */
 .sidebar{
     width: 320px;
     background: black;
@@ -138,6 +141,7 @@ body{
     padding: 11px 31px ;
     border: 1px solid #fff;
 }
+/* Main Section Style */
 .main-section{
     margin-left: 320px;
     background: #181818;
@@ -304,6 +308,7 @@ body{
 .spotify-playlist button:hover{
     text-decoration: underline;
 }
+/* Footer Style */
 .footer-link{
     display: flex;
     margin-top: 20px;
